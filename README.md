@@ -1,14 +1,12 @@
 **Cloris, Ying Xuan Ling**
 
-![Profile Picture]("")
-
 Biography
 
 I am a recent graduate in Transportation and Logistics Management from National Yang Ming Chiao Tung University (NYCU). My expertise lies in traffic data analysis, logistics management, and transportation engineering, with hands-on experience in Python, ArcGIS, and Excel for data-driven decision-making.
 
 📧 Email: yingnxuan98@gmail.com
 
-🔗 More about me
+**🔗 More about me**
 
 📌 Research Highlights
 - Traffic Characteristics and Performance Analysis of Hsuehshan Tunnel
