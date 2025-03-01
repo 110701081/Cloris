@@ -19,8 +19,7 @@ I am a recent graduate in Transportation and Logistics Management from National 
   - Assisted in administrative tasks, event planning, and data management
 
 🎓 Education
-- **National Yang Ming Chiao Tung University (NYCU)**  
-  **BSc in Transportation and Logistics Management (Sept 2021 - June 2025)**  
+- **National Yang Ming Chiao Tung University,BSc in Transportation and Logistics Management (Sept 2021 - June 2025)**  
 
 - **Chung Hwa High School Kelantan, Malaysia (2015 - 2020)**
 
