@@ -2,7 +2,7 @@
 
 Biography
 
-I am a recent graduate in Transportation and Logistics Management from National Yang Ming Chiao Tung University (NYCU). My expertise lies in traffic data analysis, logistics management, and transportation engineering, with hands-on experience in Python, ArcGIS, and Excel for data-driven decision-making.
+I am a recent graduate in Transportation and Logistics Management from National Yang Ming Chiao Tung University in Hsinchu, Taiwan. My expertise lies in traffic data analysis, logistics management, and transportation engineering, with hands-on experience in Python, ArcGIS, and Excel for data-driven decision-making.
 
 📧 Email: yingnxuan98@gmail.com
 
@@ -19,7 +19,7 @@ I am a recent graduate in Transportation and Logistics Management from National 
   - Assisted in administrative tasks, event planning, and data management
 
 🎓 Education
-- **National Yang Ming Chiao Tung University,BSc in Transportation and Logistics Management (Sept 2021 - June 2025)**  
+- **National Yang Ming Chiao Tung University, BSc in Transportation and Logistics Management (Sept 2021 - June 2025)**  
 
 - **Chung Hwa High School Kelantan, Malaysia (2015 - 2020)**
 
